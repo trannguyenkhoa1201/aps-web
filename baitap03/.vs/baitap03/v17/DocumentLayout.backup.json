@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitap03\\baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2747B292-E555-4058-BB25-31F896FA15EB}|baitap03\\baitap03.csproj|solutionrelative:baitap03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitap03\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Nhom\\Index.cshtml*",
+              "RelativeToolTip": "baitap03\\Views\\Nhom\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T06:59:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "baitap03\\Controllers\\NhomController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "baitap03\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:58:49.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Program.cs",
+              "RelativeDocumentMoniker": "baitap03\\Program.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Program.cs",
+              "RelativeToolTip": "baitap03\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:19:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "baitap03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "baitap03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:23:11.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "baitap03\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "baitap03\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T06:50:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitap03\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap03\\baitap03\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "baitap03\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T06:47:11.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
