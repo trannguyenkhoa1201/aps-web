@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\views\\tuan02\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\controllers\\tuan02controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\views\\tuan02\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baitapvn\\baitapvn\\baitapvn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97946B88-7D87-4B08-824C-341CA3D06492}|BaiTapVN\\BaiTapVN.csproj|solutionrelative:baitapvn\\baitapvn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN\\Views\\Tuan02\\Profile.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\Profile.cshtml",
+              "RelativeToolTip": "BaiTapVN\\Views\\Tuan02\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T12:43:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapVN\\Program.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Program.cs",
+              "RelativeToolTip": "BaiTapVN\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:40:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN\\Views\\Tuan02\\MayTinh.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\MayTinh.cshtml",
+              "RelativeToolTip": "BaiTapVN\\Views\\Tuan02\\MayTinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T19:21:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTapVN\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTapVN\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T19:12:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN\\Views\\Tuan02\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Tuan02\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVN\\Views\\Tuan02\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T18:59:26.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tuan02Controller.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Controllers\\Tuan02Controller.cs",
+              "RelativeDocumentMoniker": "BaiTapVN\\Controllers\\Tuan02Controller.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Controllers\\Tuan02Controller.cs",
+              "RelativeToolTip": "BaiTapVN\\Controllers\\Tuan02Controller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:57:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T18:55:39.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTapVN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T18:54:56.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaiTapVN.csproj",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\BaiTapVN.csproj",
+              "RelativeDocumentMoniker": "BaiTapVN\\BaiTapVN.csproj",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\BaiTapVN.csproj",
+              "RelativeToolTip": "BaiTapVN\\BaiTapVN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T18:53:08.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\.gitignore",
+              "RelativeDocumentMoniker": "BaiTapVN\\.gitignore",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiTapVN\\BaiTapVN\\.gitignore",
+              "RelativeToolTip": "BaiTapVN\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T18:52:52.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

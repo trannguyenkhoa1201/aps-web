@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+}
+
+<section class="vh-100">
+    <div class="container py-5 h-100">
+        <div class="header">Profile</div>
+        <div class="row">
+            <nav class="info">
+                <img src="~/image/hinh-dep.jpg" alt="Profile image" class="img-fluid rounded-circle border border-dark border-3">
+                <h6 class="mb-4">Exquisite hand henna tattoo</h6>
+                <p><i class="far fa-clock me-2"></i>3 hrs</p>
+                <p class="fw-bold">$90</p>
+                <ul class="list-unstyled d-flex flex-row" style="color: #1B7B2C;">
+                    <li><i class="fas fa-star fa-xs"></i></li>
+                    <li><i class="fas fa-star fa-xs"></i></li>
+                    <li><i class="fas fa-star fa-xs"></i></li>
+                    <li><i class="fas fa-star fa-xs"></i></li>
+                    <li><i class="fas fa-star fa-xs"></i></li>
+                </ul>
+            </nav>
+            <article class="content">
+                <p>@ViewBag.HoTen</p>
+                <div>
+                    <button class="btn btn-outline-dark btn-rounded btn-sm">+ Follow</button>
+                    <button class="btn btn-outline-dark btn-rounded btn-sm">See profile</button>
+                    <button class="btn btn-outline-dark btn-floating btn-sm"><i class="fas fa-comment"></i></button>
+                </div>
+                <hr>
+                <p>52 comments</p>
+                <button class="btn btn-success btn-rounded btn-block btn-lg"><i class="far fa-clock me-2"></i>Book now</button>
+            </article>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <p>Copyright &copy; @ViewBag.HoTen - @ViewBag.Nam</p>
+</footer>

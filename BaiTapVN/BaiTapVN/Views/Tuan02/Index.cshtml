@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Trang thông tin";
+}
+
+<div class="container">
+    <div class="header">Bài tập</div>
+
+    <div class="info">
+        <p><strong>@ViewBag.HoTen</strong></p>
+        <p>MSSV: @ViewBag.MSSV</p>
+        <p><a href="~/Profile">Profile</a></p>
+    </div>
+
+    <div class="content">
+        <img src="~/image/hinh-dep.jpg" alt="không có hình" />
+        <p>Giới thiệu bản thân</p>
+    </div>
+
+    <div class="footer">
+        <p>&copy; Copyright <strong>@ViewBag.HoTen - @ViewBag.Nam</strong></p>
+    </div>
+</div>
