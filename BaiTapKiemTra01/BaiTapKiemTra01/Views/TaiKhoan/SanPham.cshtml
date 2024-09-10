@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "SanPham";
+}
+
+
+@model SanPhamViewModel
+<div class="container">
+    <h1>SanPham</h1>
+    <ul>
+        <li>
+            @ViewBag.TenSanPham;
+        </li>
+        <li>
+            @ViewBag.GiaSanPham;
+        </li>
+        <li><img src="~/img/images.jpg" alt="Alternate Text" /></li>
+    </ul>
+</div>
