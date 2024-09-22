@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@model NhaCungCap
+<div class="container">
+    <h3>Thêm Nhà cung cấp</h3>
+    <form method="post">
+        <lable asp-for="Ten">Tên Nhà cung cấp</lable>
+        <input asp-for="Ten" type="text" class="form-control" />
+
+        <lable asp-for="DiaChi">địa chỉ </lable>
+        <input asp-for="DiaChi" type="text" class="form-control" />
+
+        <lable asp-for="SDT">SDT </lable>
+        <input asp-for="SDT" type="text" class="form-control" />
+
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
+    </form>
+</div>
+
