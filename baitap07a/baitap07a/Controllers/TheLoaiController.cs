@@ -89,6 +89,31 @@ namespace baitap07a.Controllers
             _db.TheLoai.Remove(theloai); _db.SaveChanges();
             return RedirectToAction("Index");
         }
-
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.TheLoai.Find(id);
+            return View(theloai);
+        }
+        [HttpGet]
+        public IActionResult Search(string SearchString)
+        {
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                // Sử dụng LINQ để tìm kiếm
+                var theloai = _db.TheLoai.Where(tl => tl.Name.Contains(SearchString)).ToList();
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai = _db.TheLoai.ToList();
+                ViewBag.TheLoai = theloai;
+            }
+            return View("Index"); // Sử dụng lại View Index
+        }
     }
 }

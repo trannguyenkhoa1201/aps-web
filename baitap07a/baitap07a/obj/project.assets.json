@@ -8234,19 +8234,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KHOA\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap07a\\baitap07a\\baitap07a.csproj",
+      "projectUniqueName": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\baitap07a\\baitap07a\\baitap07a.csproj",
       "projectName": "baitap07a",
-      "projectPath": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap07a\\baitap07a\\baitap07a.csproj",
-      "packagesPath": "C:\\Users\\KHOA\\.nuget\\packages\\",
-      "outputPath": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\baitap07a\\baitap07a\\obj\\",
+      "projectPath": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\baitap07a\\baitap07a\\baitap07a.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\baitap07a\\baitap07a\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KHOA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8332,7 +8332,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
