@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ProjectA.Controllers
 {
-    [Area("Admin")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;

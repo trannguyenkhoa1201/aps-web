@@ -226,33 +226,34 @@ namespace ProjectA.Data.Migrations
 
             modelBuilder.Entity("ProjectA.Models.SanPham", b =>
                 {
-                    b.Property<int>("id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Description")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("TheloaiId")
+                    b.Property<int>("TheLoai")
                         .HasColumnType("int");
+
+                    b.Property<int>("TheLoaiId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("imageUrl")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("price")
                         .HasColumnType("float");
 
-                    b.HasKey("id");
+                    b.HasKey("Id");
 
-                    b.HasIndex("TheloaiId");
-
-                    b.ToTable("SanPhams");
+                    b.ToTable("SanPham");
                 });
 
             modelBuilder.Entity("ProjectA.Models.TheLoai", b =>
@@ -325,17 +326,6 @@ namespace ProjectA.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("ProjectA.Models.SanPham", b =>
-                {
-                    b.HasOne("ProjectA.Models.TheLoai", "Theloai")
-                        .WithMany()
-                        .HasForeignKey("TheloaiId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Theloai");
                 });
 #pragma warning restore 612, 618
         }

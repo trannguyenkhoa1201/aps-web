@@ -1,10 +1,5 @@
 ﻿
-@{
-    ViewData["Title"] = "Index";
-}
-
-<h1>Index</h1>
-
+@model IEnumerable<TheLoai>
 <div class="container">
     <form asp-action="Search" method="get">
         <input type="text" name="searchString" placeholder="Nhập thể loại cần tìm ..."/>

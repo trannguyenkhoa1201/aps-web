@@ -1,4 +1,5 @@
-﻿using ProjectA.Models;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using ProjectA.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,7 +12,6 @@ namespace ProjectA.Data
         {
         }
         public DbSet<TheLoai> TheLoai { get; set; }
-        public DbSet<SanPham> SanPhams { get; set; }
-        
+        public DbSet<SanPham> SanPham { get; set; }
     }
 }

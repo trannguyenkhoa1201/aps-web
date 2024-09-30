@@ -8239,11 +8239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
+      "projectUniqueName": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
       "projectName": "ProjectA",
-      "projectPath": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
+      "projectPath": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\trannguyenkhoa_DNTU\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\obj\\",
+      "outputPath": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
