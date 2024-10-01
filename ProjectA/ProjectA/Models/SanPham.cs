@@ -11,14 +11,14 @@ namespace ProjectA.Models
         [Required]
         public string Name { get; set; }
         [Required]
-        public double price { get; set; }
+        public double Price { get; set; }
         public string? Description { get; set; }
-        public string? imageUrl { get; set; }
+        public string? ImageUrl { get; set; }
         [Required]
         public int TheLoaiId {  get; set; }
         [ForeignKey("TheLoaiId")]
         [ValidateNever]
-        public TheLoai TheLoai{ get; set; } 
+		public TheLoai TheLoai { get; set; }
 
-    }
+	}
 }

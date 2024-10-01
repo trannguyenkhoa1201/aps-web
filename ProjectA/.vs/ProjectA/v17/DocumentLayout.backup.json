@@ -1,50 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\",
+  "WorkspaceRootPath": "D:\\dntu\\ProjectA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\data\\migrations\\20240930082056_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\migrations\\20240930082056_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|d:\\dntu\\laptrinhweb\\github\\aps-web\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4EC35A6-C014-4EEA-B503-AD4589241E56}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,141 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml*",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T18:38:20.403Z",
+              "WhenOpened": "2024-09-30T18:22:48.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:05:58.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T17:11:50.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T17:55:30.532Z",
+              "WhenOpened": "2024-09-30T17:59:59.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Models\\SanPham.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
-              "RelativeToolTip": "ProjectA\\Models\\SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:16:35.94Z",
+              "WhenOpened": "2024-09-30T13:46:39.35Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TheLoai.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Models\\TheLoai.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
-              "RelativeToolTip": "ProjectA\\Models\\TheLoai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:16:44.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Program.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Program.cs",
-              "RelativeToolTip": "ProjectA\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:57:38.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TheLoaiController.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:16:52.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:13:59.737Z"
+              "WhenOpened": "2024-09-30T08:12:30.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ProjectA\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ProjectA\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:05:34.149Z"
+              "WhenOpened": "2024-09-30T08:18:39.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "20240930082056_init.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Data\\Migrations\\20240930082056_init.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Data\\Migrations\\20240930082056_init.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Data\\Migrations\\20240930082056_init.cs",
+              "RelativeToolTip": "ProjectA\\Data\\Migrations\\20240930082056_init.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:20:56.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\SanPham.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeToolTip": "ProjectA\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:17:25.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Program.cs",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Program.cs",
+              "RelativeToolTip": "ProjectA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:16:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\appsettings.json",
+              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectA\\appsettings.json",
-              "ToolTip": "D:\\dntu\\LapTrinhWeb\\Github\\aps-web\\ProjectA\\ProjectA\\appsettings.json",
+              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\appsettings.json",
               "RelativeToolTip": "ProjectA\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T15:58:41.681Z"
+              "WhenOpened": "2024-09-30T08:00:38.368Z",
+              "EditorCaption": ""
             }
           ]
         }

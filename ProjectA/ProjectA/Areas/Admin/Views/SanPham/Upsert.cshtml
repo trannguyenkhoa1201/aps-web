@@ -9,36 +9,34 @@
             <span asp-validation-for="Name" class="text-danger"></span>
         </div>
 
-        
         <div class="form-group">
             <label asp-for="Description">Mô tả</label>
             <input asp-for="Description" type="text" class="form-control" />
             <span asp-validation-for="Description" class="text-danger"></span>
         </div>
 
-        <!-- Chọn Thể loại sản phẩm -->
         <div class="form-group">
-            <label asp-for="price">Gia Ban</label>
-            <input asp-for="price" type="number" class="form-control" />
-            <span asp-validation-for="price" class="text-danger"></span>
+            <label asp-for="Price">Giá bán</label>
+            <input asp-for="Price" type="number" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
         </div>
 
         <div class="form-group">
-            <label asp-for="imageUrl">Hinh Anh</label>
-            <input asp-for="imageUrl" type="text" class="form-control" />
-            <span asp-validation-for="imageUrl" class="text-danger"></span>
+            <label asp-for="ImageUrl">Hình ảnh</label>
+            <input asp-for="ImageUrl" type="text" class="form-control" />
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
         </div>
 
         <div class="form-group">
-            <label asp-for="TheLoaiId">The Loai</label>
+            <label asp-for="TheLoaiId">Thể loại</label>
             <select asp-for="TheLoaiId" asp-items="@ViewBag.DsTheLoai" class="form-control">
-                <option disabled>Chon The Loai</option>
+                <option value="">Chọn thể loại</option>
             </select>
-            
             <span asp-validation-for="TheLoaiId" class="text-danger"></span>
         </div>
+
         <button type="submit" class="btn btn-primary">
-            @(Model.Id == 0 ? "Tạo mới" : "Cập nhật")
+            @(Model != null && Model.Id == 0 ? "Tạo mới" : "Cập nhật")
         </button>
         <a asp-action="Index" class="btn btn-secondary">Hủy</a>
     </form>

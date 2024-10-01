@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ProjectA.Controllers
 {
+    [Area("Admin")]
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -15,7 +16,7 @@ namespace ProjectA.Controllers
 
         public IActionResult Index()
         {
-            var Theloai = _db.TheLoai.ToList();
+			var Theloai = _db.TheLoai.ToList();
             ViewBag.Theloai = Theloai;
             return View();
         }
@@ -115,5 +116,6 @@ namespace ProjectA.Controllers
             }
             return View("Index"); // Sử dụng lại View Index
         }
+
     }
 }

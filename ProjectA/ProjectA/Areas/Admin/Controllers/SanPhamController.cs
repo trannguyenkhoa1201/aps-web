@@ -22,8 +22,8 @@ namespace ProjectA.Areas.Admin.Controllers
             return View(sanPham);
         }
         [HttpGet]
-		public IActionResult Upsert(int id)
-		{
+        public IActionResult Upsert(int id)
+        {
             SanPham sanPham = new SanPham();
             IEnumerable<SelectListItem> dstheloai = _db.TheLoai.Select(
                 item => new SelectListItem
@@ -33,13 +33,13 @@ namespace ProjectA.Areas.Admin.Controllers
                 }
             );
             ViewBag.DsTheLoai = dstheloai;
-            if(id == 0) // create / insert 
-            {           
+            if (id == 0) // create / insert 
+            {
                 return View(sanPham);
             }
             else //Edit /update
             {
-                sanPham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp=>sp.Id == id);
+                sanPham = _db.SanPham.Include("TheLoai").FirstOrDefault(sp => sp.Id == id);
                 return View(sanPham);
             }
         }
@@ -48,8 +48,8 @@ namespace ProjectA.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                if (sanpham.Id ==0)
-{                   //them thong tin vao bang the loai
+                if (sanpham.Id == 0)
+                {                   //them thong tin vao bang the loai
                     _db.SanPham.Add(sanpham);
                 }
                 else
@@ -62,6 +62,19 @@ namespace ProjectA.Areas.Admin.Controllers
                 return RedirectToAction("Index");
             }
             return View();
+        }
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+            if (sanpham == null)
+            {
+                return NotFound();
+            }
+            _db.SanPham.Remove(sanpham);
+            _db.SaveChanges();
+            return Json(new { sucess = true });
+            //return RedirectToAction("Index");
         }
     }
 }
