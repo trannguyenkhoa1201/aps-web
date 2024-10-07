@@ -1,0 +1,22 @@
+﻿@model Book
+<div class="container">
+    <h3>Xóa sách</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <form method="post" asp-action="DeleteConfirm">
+        <input type="hidden" asp-for="BookId" />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Title">Tiêu đề sách</label>
+            <input asp-for="Title" type="text" disabled class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PublicationYear">Năm xuất bản</label>
+            <input asp-for="PublicationYear" type="number" disabled class="form-control" />
+            <span asp-validation-for="PublicationYear" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

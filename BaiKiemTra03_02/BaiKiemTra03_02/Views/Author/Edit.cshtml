@@ -1,0 +1,24 @@
+﻿@model Author
+<div class="container">
+    <h3>Chỉnh sửa tác giả</h3>
+    <form method="post" asp-action="Edit">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="AuthorName">Tên tác giả</label>
+            <input asp-for="AuthorName" type="text" class="form-control" />
+            <span asp-validation-for="AuthorName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Nationality">Quốc tịch</label>
+            <input asp-for="Nationality" type="text" class="form-control" />
+            <span asp-validation-for="Nationality" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="BirthYear">Năm sinh</label>
+            <input asp-for="BirthYear" type="number" class="form-control" />
+            <span asp-validation-for="BirthYear" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

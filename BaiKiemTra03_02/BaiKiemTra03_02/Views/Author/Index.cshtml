@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Author>
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập tên tác giả cần tìm ..." />
+        <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table">
+        <thead>
+        <th>Tên tác giả</th>
+        <th>Quốc tịch</th>
+        <th>Năm sinh</th>
+        <th>Chức năng</th>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Authors)
+            {
+                <tr>
+                    <td width="40%">@item.AuthorName</td>
+                    <td width="30%">@item.Nationality</td>
+                    <td width="20%">@item.BirthYear</td>
+                    <td width="40%">
+                        <a asp-action="Edit" asp-route-id="@item.AuthorId">Sửa</a>
+                        <a asp-action="Detail" asp-route-id="@item.AuthorId">Chi tiết</a>
+                        <a asp-action="Delete" asp-route-id="@item.AuthorId">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Author" asp-action="Create" class="btn btn-primary">Thêm mới tác giả</a>
+</div>

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Book>
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập tên sách cần tìm ..." />
+        <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table">
+        <thead>
+        <th>Tiêu đề sách</th>
+        <th>Tác giả</th>
+        <th>Năm xuất bản</th>
+        <th>Chức năng</th>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Books)
+            {
+                <tr>
+                    <td width="30%">@item.Title</td>
+                    <td width="30%">@item.Author.AuthorName</td>
+                    <td width="20%">@item.PublicationYear</td>
+                    <td width="40%">
+                        <a asp-action="Edit" asp-route-id="@item.BookId">Sửa</a>
+                        <a asp-action="Detail" asp-route-id="@item.BookId">Chi tiết</a>
+                        <a asp-action="Delete" asp-route-id="@item.BookId">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Book" asp-action="Create" class="btn btn-primary">Thêm mới sách</a>
+</div>

@@ -1,0 +1,26 @@
+﻿@model Book
+<div class="container">
+    <h3>Thêm sách mới</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post" asp-action="Create">
+        <div class="form-group">
+            <label asp-for="Title">Tiêu đề sách</label>
+            <input asp-for="Title" type="text" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PublicationYear">Năm xuất bản</label>
+            <input asp-for="PublicationYear" type="number" class="form-control" />
+            <span asp-validation-for="PublicationYear" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="AuthorId">Tác giả</label>
+            <select asp-for="AuthorId" class="form-control" asp-items="ViewBag.Authors"></select>
+            <span asp-validation-for="AuthorId" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Tạo mới</button>
+    </form>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

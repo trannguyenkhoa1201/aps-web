@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\author\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\author\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\book\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\book\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\data\\migrations\\20241007075427_baikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\migrations\\20241007075427_baikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\baitapdntu\\laptrinhweb\\github\\aps-web\\baikiemtra03_02\\baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2651B15-C12F-4F3D-8AE1-4DF6766C9E30}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Author\\Create.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Author\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:00:46.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Author\\Delete.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Author\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:00:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:00:26.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Author\\Detail.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Detail.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Author\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:00:14.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:59:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:58:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Book\\Detail.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Detail.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Book\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:58:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:57:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:57:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Author\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Author\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:56:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:55:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:55:33.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241007075427_baikiemtra.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007075427_baikiemtra.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\Migrations\\20241007075427_baikiemtra.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\Migrations\\20241007075427_baikiemtra.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\Migrations\\20241007075427_baikiemtra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:54:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Book.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:38:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:38:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\appsettings.json",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra03_02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T07:37:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:36:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Program.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\GitHub\\aps-web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Program.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:35:09.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
