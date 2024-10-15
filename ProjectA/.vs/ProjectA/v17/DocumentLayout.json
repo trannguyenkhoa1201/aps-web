@@ -1,42 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dntu\\ProjectA\\",
+  "WorkspaceRootPath": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\migrations\\20241015062444_themgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\migrations\\20241015062444_themgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\viewcomponents\\theloaiviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\viewcomponents\\theloaiviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\migrations\\20241014085500_updatetheloainamelength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\migrations\\20241014085500_updatetheloainamelength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\data\\migrations\\20240930082056_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\migrations\\20240930082056_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\dntu\\projecta\\projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\models\\applicationuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\models\\applicationuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\areas\\customer\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\areas\\customer\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\migrations\\20241008055456_applicationuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\migrations\\20241008055456_applicationuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|d:\\baitapdntu\\laptrinhweb\\git\\aps-web\\projecta\\projecta\\migrations\\20241008053758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55714EE2-CCE8-488D-A655-01333AE4C630}|ProjectA\\ProjectA.csproj|solutionrelative:projecta\\migrations\\20241008053758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +130,370 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjectA\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProjectA\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T18:22:48.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T17:59:59.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:46:39.35Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:59:59.286Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProjectA\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:12:30.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:12:30.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProjectA\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAgAAABIAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\TheLoai.cs",
+              "RelativeToolTip": "ProjectA\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:18:39.24Z"
+              "WhenOpened": "2024-10-14T08:42:03.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240930082056_init.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Data\\Migrations\\20240930082056_init.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Data\\Migrations\\20240930082056_init.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Data\\Migrations\\20240930082056_init.cs",
-              "RelativeToolTip": "ProjectA\\Data\\Migrations\\20240930082056_init.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:20:56.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Models\\SanPham.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Models\\SanPham.cs",
-              "RelativeToolTip": "ProjectA\\Models\\SanPham.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:17:25.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectA\\Program.cs",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\Program.cs",
-              "RelativeToolTip": "ProjectA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:16:56.389Z",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T06:39:44.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "20241015062444_ThemGioHang.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241015062444_ThemGioHang.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Migrations\\20241015062444_ThemGioHang.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241015062444_ThemGioHang.cs",
+              "RelativeToolTip": "ProjectA\\Migrations\\20241015062444_ThemGioHang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:24:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:41:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\SanPham.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\SanPham.cs",
+              "RelativeToolTip": "ProjectA\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:17:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\GioHang.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\GioHang.cs",
+              "RelativeToolTip": "ProjectA\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:19:20.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeToolTip": "ProjectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:45:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241014085500_UpdateTheLoaiNameLength.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241014085500_UpdateTheLoaiNameLength.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Migrations\\20241014085500_UpdateTheLoaiNameLength.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241014085500_UpdateTheLoaiNameLength.cs",
+              "RelativeToolTip": "ProjectA\\Migrations\\20241014085500_UpdateTheLoaiNameLength.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:55:00.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "ProjectA\\wwwroot\\css\\styles.css",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "ProjectA\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T12:49:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T09:42:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TheLoaiViewComponents.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ViewComponents\\TheLoaiViewComponents.cs",
+              "RelativeDocumentMoniker": "ProjectA\\ViewComponents\\TheLoaiViewComponents.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ViewComponents\\TheLoaiViewComponents.cs",
+              "RelativeToolTip": "ProjectA\\ViewComponents\\TheLoaiViewComponents.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:42:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectA\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T06:36:15.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProjectA\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:57:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProjectA\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProjectA\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T07:10:14.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T06:02:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ProjectA\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAgwOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:59:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241008055456_ApplicationUse.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241008055456_ApplicationUse.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Migrations\\20241008055456_ApplicationUse.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241008055456_ApplicationUse.cs",
+              "RelativeToolTip": "ProjectA\\Migrations\\20241008055456_ApplicationUse.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:54:56.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationUse.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\ApplicationUse.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Models\\ApplicationUse.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Models\\ApplicationUse.cs",
+              "RelativeToolTip": "ProjectA\\Models\\ApplicationUse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:50:01.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:43:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Customer\\_ViewImports.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Customer\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Customer\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:42:51.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\_ViewImports.cshtml",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectA\\Areas\\Admin\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T05:42:26.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProjectA\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProjectA\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T05:41:06.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241008053758_init.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241008053758_init.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Migrations\\20241008053758_init.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Migrations\\20241008053758_init.cs",
+              "RelativeToolTip": "ProjectA\\Migrations\\20241008053758_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:37:58.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ProjectA\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:46:39.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectA\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:18:39.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectA\\Program.cs",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\Program.cs",
+              "RelativeToolTip": "ProjectA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:16:56.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\dntu\\ProjectA\\ProjectA\\appsettings.json",
+              "DocumentMoniker": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectA\\appsettings.json",
-              "ToolTip": "D:\\dntu\\ProjectA\\ProjectA\\appsettings.json",
+              "ToolTip": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\appsettings.json",
               "RelativeToolTip": "ProjectA\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-30T08:00:38.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:00:38.368Z"
             }
           ]
         }

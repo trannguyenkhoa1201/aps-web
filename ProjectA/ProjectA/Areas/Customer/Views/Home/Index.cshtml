@@ -34,17 +34,23 @@
         {
             <div class="col-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
+                    @* <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name"> *@
+                    <a asp-action="Details" asp-route-SanPhamId="@item.Id">
+                        <img src="@item.ImageUrl" alt="Product image" class="product-image , card-img-top">
+                    </a>
                     <div class="card-body">
-                        <h5 class="card-title">@item.Name</h5>
-                        <h6 class="card-title">@item.Price</h6>
-                        <p class="card-text">@item. Description</p>
+                        <h5 class="card-title">
+                            <a asp-action="Details" asp-route-SanPhamId="@item.Id">@item.Name</a>
+                        </h5>
+                        @* <h6 class="card-title">@item.Price</h6> *@
+                        <h6 class="card-title">@String.Format("{0:N0}", item.Price) đ</h6>
+                        @* <p class="card-text">@item.Description</p> *@
                         <div class="row">
                             <div class="col-6">
-                                <a href="#" class="btn btn-primary">Them vao yeu thich &#10084;</a>
+                                <a href="#" class="btn btn-primary">Thêm Vào Yêu Thích &#10084;</a>
                             </div>
                             <div class="col-6">
-                                <a href="#" class="btn btn-danger">Mua Hang</a>
+                                <a href="#" class="btn btn-danger">Mua Hàng <i class='fas fa-cart-plus'></i></a>
                             </div>
                         </div>
                     </div>

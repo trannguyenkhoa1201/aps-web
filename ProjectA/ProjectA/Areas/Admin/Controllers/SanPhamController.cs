@@ -76,5 +76,6 @@ namespace ProjectA.Areas.Admin.Controllers
             return Json(new { sucess = true });
             //return RedirectToAction("Index");
         }
+
     }
 }

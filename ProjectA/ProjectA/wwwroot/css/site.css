@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
 }
 
@@ -20,3 +20,43 @@ html {
 body {
   margin-bottom: 60px;
 }
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+}
+/* Điều chỉnh kích thước font */
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Điều chỉnh hộp đổ bóng cho các thành phần khi focus */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Thiết lập chiều cao tối thiểu cho body */
+body {
+    margin-bottom: 60px;
+}
+
+.logo-circle {
+    height: 40px;
+    width: 40px; /* Make sure width and height are equal for a perfect circle */
+    border-radius: 50%; /* This makes the image circular */
+    object-fit: cover; /* This ensures the image scales correctly inside the circle */
+}
+

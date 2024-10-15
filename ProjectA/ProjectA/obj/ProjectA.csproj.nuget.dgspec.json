@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dntu\\ProjectA\\ProjectA\\ProjectA.csproj": {}
+    "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj": {}
   },
   "projects": {
-    "D:\\dntu\\ProjectA\\ProjectA\\ProjectA.csproj": {
+    "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dntu\\ProjectA\\ProjectA\\ProjectA.csproj",
+        "projectUniqueName": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
         "projectName": "ProjectA",
-        "projectPath": "D:\\dntu\\ProjectA\\ProjectA\\ProjectA.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\dntu\\ProjectA\\ProjectA\\obj\\",
+        "projectPath": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\ProjectA.csproj",
+        "packagesPath": "C:\\Users\\KHOA\\.nuget\\packages\\",
+        "outputPath": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KHOA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,13 +72,17 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.6, )"
             }
           },
           "imports": [
@@ -100,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

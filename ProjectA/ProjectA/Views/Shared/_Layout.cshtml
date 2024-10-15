@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using ProjectA.Models
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,12 +9,17 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ProjectA.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProjectA</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/images/logo.jpg" alt="Logo" class="logo-circle" style="height: 40px;">
+                </a>
+
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,15 +27,35 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="TheLoai" asp-action="Index">Admin-TheLoai</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                        </li>
+                        <vc:the-loai></vc:the-loai>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Admin" asp-controller="TheLoai" asp-action="Index">Thêm Thể Loại</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="SanPham" asp-action="Index">Admin-SanPham</a>
+                            <a class="nav-link text-white" asp-area="Admin" asp-controller="SanPham" asp-action="Index">Sản Phẩm</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Customer" asp-controller="Home" asp-action="Index">Customer-Home</a>
-                        </li>
+                        
+                        
                     </ul>
+
+                    <!-- Search form -->
+                    <form class="d-flex">
+                        <input class="form-control me-2" type="search" placeholder="Tìm Kiếm.." aria-label="Search">
+                        <button class="btn btn-outline-light" type="submit">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </form>
+
+                    <!-- Language selection -->
+                    @* <a class="nav-link text-white" href="#">English</a> *@
+               @*      <li class="nav-item">
+                        <a class="nav-link text-white pl-3" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white pl-3" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                    </li> *@
                     <partial name="_LoginPartial" />
                 </div>
             </div>
@@ -40,11 +67,76 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    
+    <section id="contact">
+        <footer id="footer" class="py-5 bg-dark text-light">
+            <div class="container">
+                <div class="row">
+                    <!-- Address Column -->
+                    <div class="col-md-3">
+                        <h5>Địa Chỉ</h5>
+                        <p><i class="fa fa-map-marker"></i> Tổ 15, Khu Phố 4, Phường Trảng Dài</p>
+                        <p><i class="fa fa-phone"></i> Gọi: +01 1234567890</p>
+                        <p><i class="fa fa-envelope"></i> 1822041106@dntu.edu.vn</p>
+                        <div class="social-icons">
+                            <a href="https://www.facebook.com" target="_blank">
+                                <i class="fab fa-facebook-f" style="font-size:24px; margin-right: 10px;"></i>
+                            </a>
+                            <a href="https://www.twitter.com" target="_blank">
+                                <i class="fab fa-twitter" style="font-size:24px; margin-right: 10px;"></i>
+                            </a>
+                            <a href="https://www.linkedin.com" target="_blank">
+                                <i class="fab fa-linkedin" style="font-size:24px; margin-right: 10px;"></i>
+                            </a>
+                            <a href="https://www.instagram.com" target="_blank">
+                                <i class="fab fa-instagram" style="font-size:24px;"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Links Column -->
+                    <div class="col-md-3">
+                        <h5>Liên Kết</h5>
+                        <ul class="list-unstyled">
+                            <li><a href="#" class="text-light">Trang Chủ</a></li>
+                            <li><a href="#" class="text-light">Về</a></li>
+                            <li><a href="#" class="text-light">Dịch Vụ</a></li>
+                            <li><a href="#" class="text-light">Định Giá</a></li>
+                            <li><a href="#" class="text-light">Liên Hệ Với Chúng Tôi</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Info Column -->
+                    <div class="col-md-3">
+                        <h5>Thông tin</h5>
+                        <p>Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful.</p>
+                    </div>
+
+                    <!-- Subscribe Column -->
+                    <div class="col-md-3">
+                        <h5>Đăng Ký</h5>
+                        <form action="#" method="post">
+                            <input type="email" class="form-control mb-2" placeholder="Điềm email" />
+                            <button type="submit" class="btn btn-danger">Đăng ký</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="text-center mt-4">
+                    <p>&copy; 2024 Mọi quyền được bảo lưu bởi các mẫu Html miễn phí</p>
+                </div>
+            </div>
+        </footer>
+    </section>
+
+
+
+
+    @* <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - ProjectA - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer> *@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
