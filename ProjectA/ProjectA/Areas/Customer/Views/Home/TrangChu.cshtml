@@ -1,0 +1,256 @@
+﻿<!-- Slideshow Section -->
+<div id="productSlideshow" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" style="margin-top: 25px;">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="https://tabletplaza.vn/images/promo/28/17-10_L%E1%BB%85_L%C6%B0%C6%A1ng_V%E1%BB%81_1634x628.png" class="d-block w-100" alt="Promo Image 1">
+        </div>
+        <div class="carousel-item">
+            <img src="https://tabletplaza.vn/images/promo/27/57f31fe9-7803-46b7-a509-389c315cd3c7.jpg" class="d-block w-100" alt="Promo Image 2">
+        </div>
+        <div class="carousel-item">
+            <img src="https://tabletplaza.vn/images/promo/28/161c7b4e-b116-4d8a-b4d0-e641c3e66585.jpg" class="d-block w-100" alt="Promo Image 3">
+        </div>
+        <div class="carousel-item">
+            <img src="https://tabletplaza.vn/images/promo/27/14-9_S24Ultra_Banner_TPZ.png" class="d-block w-100" alt="Promo Image 4">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#productSlideshow" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#productSlideshow" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </a>
+</div>
+
+
+@model IEnumerable<ProjectA.Models.SanPham>
+
+<!-- Phần Điện Thoại -->
+<div class="container product-container" style="margin-top: 75px; position: relative;">
+    <h2 class="text-center">Điện Thoại</h2>
+    <div class="row">
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 start-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-left: 20px;" id="prevBtnPhone">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-12" style="overflow: hidden; padding: 0 3rem;">
+            <div class="border p-3" style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+                <div class="d-flex" id="product-container-phone" style="scroll-behavior: smooth; width: 100%; overflow-x: hidden;">
+                    @foreach (var item in Model.Where(p => p.TheLoai.Name == "Điện Thoại"))
+                    {
+                        <div class="flex-shrink-0" style="min-width: 15rem; margin-right: 10px;">
+                            <div class="card text-center" style="width: 15rem; margin: auto;">
+                                <a asp-action="Details" asp-route-sanphamId="@item.Id">
+                                    <img src="@item.ImageUrl" alt="Product image" class="product-image card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <h6 class="card-title text-danger">@item.Price.ToString("N0") đ</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 end-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-right: 20px;" id="nextBtnPhone">
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Phần Tai Nghe -->
+<div class="container product-container" style="margin-top: 75px; position: relative;">
+    <h2 class="text-center">Tai Nghe</h2>
+    <div class="row">
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 start-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-left: 20px;" id="prevBtnTaiNghe">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-12" style="overflow: hidden; padding: 0 3rem;">
+            <div class="border p-3" style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+                <div class="d-flex" id="product-container-tai-nghe" style="scroll-behavior: smooth; width: 100%; overflow-x: hidden;">
+                    @foreach (var item in Model.Where(p => p.TheLoai.Name == "Tai Nghe"))
+                    {
+                        <div class="flex-shrink-0" style="min-width: 15rem; margin-right: 10px;">
+                            <div class="card text-center" style="width: 15rem; margin: auto;">
+                                <a asp-action="Details" asp-route-sanphamId="@item.Id">
+                                    <img src="@item.ImageUrl" alt="Product image" class="product-image card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <h6 class="card-title text-danger">@item.Price.ToString("N0") đ</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 end-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-right: 20px;" id="nextBtnTaiNghe">
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 25px;">
+    <img src="https://cdnv2.tgdd.vn/mwg-static/tgdd/Banner/f8/50/f850735cecb8abae57badd2ffa6bcd89.jpg" style="width:100%" />
+</div>
+
+<!-- Phần Laptop -->
+<div class="container product-container" style="margin-top: 75px; position: relative;">
+    <h2 class="text-center">Laptop</h2>
+    <div class="row">
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 start-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-left: 20px;" id="prevBtnLaptop">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-12" style="overflow: hidden; padding: 0 3rem;">
+            <div class="border p-3" style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+                <div class="d-flex" id="product-container-laptop" style="scroll-behavior: smooth; width: 100%; overflow-x: hidden;">
+                    @foreach (var item in Model.Where(p => p.TheLoai.Name == "Laptop"))
+                    {
+                        <div class="flex-shrink-0" style="min-width: 15rem; margin-right: 10px;">
+                            <div class="card text-center" style="width: 15rem; margin: auto;">
+                                <a asp-action="Details" asp-route-sanphamId="@item.Id">
+                                    <img src="@item.ImageUrl" alt="Product image" class="product-image card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <h6 class="card-title text-danger">@item.Price.ToString("N0") đ</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 end-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-right: 20px;" id="nextBtnLaptop">
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Phần Thiết Bị Mạng -->
+<div class="container product-container" style="margin-top: 75px; position: relative;">
+    <h2 class="text-center">Thiết Bị Mạng</h2>
+    <div class="row">
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 start-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-left: 20px;" id="prevBtnThietBiMang">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-12" style="overflow: hidden; padding: 0 3rem;">
+            <div class="border p-3" style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+                <div class="d-flex" id="product-container-thiet-bi-mang" style="scroll-behavior: smooth; width: 100%; overflow-x: hidden;">
+                    @foreach (var item in Model.Where(p => p.TheLoai.Name == "Thiết Bị Mạng"))
+                    {
+                        <div class="flex-shrink-0" style="min-width: 15rem; margin-right: 10px;">
+                            <div class="card text-center" style="width: 15rem; margin: auto;">
+                                <a asp-action="Details" asp-route-sanphamId="@item.Id">
+                                    <img src="@item.ImageUrl" alt="Product image" class="product-image card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <h6 class="card-title text-danger">@item.Price.ToString("N0") đ</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 end-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-right: 20px;" id="nextBtnThietBiMang">
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 25px;">
+    <img src="https://tabletplaza.vn/images/promo/27/aa13ce2a-315c-482c-9ba7-eb0ac0ed4a7c.jpg" style="width:100%" />
+</div>
+
+
+<!-- Phần Chuột -->
+<div class="container product-container" style="margin-top: 75px; position: relative;">
+    <h2 class="text-center">Chuột</h2>
+    <div class="row">
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 start-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-left: 20px;" id="prevBtnChuot">
+                <i class="fas fa-chevron-left"></i>
+            </a>
+        </div>
+        <div class="col-12" style="overflow: hidden; padding: 0 3rem;">
+            <div class="border p-3" style="border: 1px solid #ccc; border-radius: 5px; overflow: hidden;">
+                <div class="d-flex" id="product-container-chuot" style="scroll-behavior: smooth; width: 100%; overflow-x: hidden;">
+                    @foreach (var item in Model.Where(p => p.TheLoai.Name == "Chuột"))
+                    {
+                        <div class="flex-shrink-0" style="min-width: 15rem; margin-right: 10px;">
+                            <div class="card text-center" style="width: 15rem; margin: auto;">
+                                <a asp-action="Details" asp-route-sanphamId="@item.Id">
+                                    <img src="@item.ImageUrl" alt="Product image" class="product-image card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <h6 class="card-title text-danger">@item.Price.ToString("N0") đ</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        <div>
+            <a href="javascript:void(0);" class="position-absolute top-50 end-0 translate-middle-y" style="z-index: 1; font-size: 2rem; padding-right: 20px;" id="nextBtnChuot">
+                <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Mã JavaScript -->
+<script>
+    const scrollAmount = 200; // Số pixel để cuộn
+
+    // Điện Thoại
+    const productContainerPhone = document.getElementById('product-container-phone');
+    document.getElementById('prevBtnPhone').onclick = () => productContainerPhone.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    document.getElementById('nextBtnPhone').onclick = () => productContainerPhone.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+
+    // Tai Nghe
+    const productContainerTaiNghe = document.getElementById('product-container-tai-nghe');
+    document.getElementById('prevBtnTaiNghe').onclick = () => productContainerTaiNghe.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    document.getElementById('nextBtnTaiNghe').onclick = () => productContainerTaiNghe.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+
+    // Laptop
+    const productContainerLaptop = document.getElementById('product-container-laptop');
+    document.getElementById('prevBtnLaptop').onclick = () => productContainerLaptop.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    document.getElementById('nextBtnLaptop').onclick = () => productContainerLaptop.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+
+    // Thiết Bị Mạng
+    const productContainerThietBiMang = document.getElementById('product-container-thiet-bi-mang');
+    document.getElementById('prevBtnThietBiMang').onclick = () => productContainerThietBiMang.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    document.getElementById('nextBtnThietBiMang').onclick = () => productContainerThietBiMang.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+
+    // Chuột
+    const productContainerChuot = document.getElementById('product-container-chuot');
+    document.getElementById('prevBtnChuot').onclick = () => productContainerChuot.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+    document.getElementById('nextBtnChuot').onclick = () => productContainerChuot.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+</script>

@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\images\\Sans.jpg",
+      "PackagePath": "staticwebassets\\images\\Sans.jpg"
+    },
+    {
       "Id": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\images\\th.jpg",
+      "PackagePath": "staticwebassets\\images\\th.jpg"
     },
     {
       "Id": "D:\\baitapDNTU\\LapTrinhWeb\\git\\aps-web\\ProjectA\\ProjectA\\wwwroot\\js\\site.js",

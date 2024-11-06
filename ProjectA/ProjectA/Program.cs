@@ -40,7 +40,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
 	name: "default",
-	pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+	pattern: "{area=Customer}/{controller=Home}/{action=TrangChu}/{id?}");
 
 app.UseEndpoints(endpoints =>
 {

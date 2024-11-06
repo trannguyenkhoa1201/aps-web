@@ -17,7 +17,7 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <img src="~/images/logo.jpg" alt="Logo" class="logo-circle" style="height: 40px;">
+                    <img src="~/images/Sans.jpg" alt="Logo" class="logo-circle" style="height: 40px;">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -27,40 +27,47 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="TrangChu">Trang Chủ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="GioiThieu">Giới Thiệu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Sản Phẩm</a>
                         </li>
                         <vc:the-loai></vc:the-loai>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-white" href="#" id="adminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Admin
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="adminDropdown">
+                                    <li><a class="dropdown-item" asp-area="Admin" asp-controller="TheLoai" asp-action="Index">Thêm Thể Loại</a></li>
+                                    <li><a class="dropdown-item" asp-area="Admin" asp-controller="SanPham" asp-action="Index">Thêm Sản Phẩm</a></li>
+                                    <li><a class="dropdown-item" asp-area="Admin" asp-controller="DonHang" asp-action="Index">Đơn Hàng</a></li>
+                                    <li>
+                                        <a class="dropdown-item" asp-area="Admin" asp-controller="NhaCungCap" asp-action="Index">Thêm Nhà Cung Cấp</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="Admin" asp-controller="TheLoai" asp-action="Index">Thêm Thể Loại</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="NhaCungCap">Nhà Cung Cấp</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="Admin" asp-controller="SanPham" asp-action="Index">Sản Phẩm</a>
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="GioHang" asp-action="Index">Giỏ Hàng</a>
                         </li>
-                        
-                        
+
                     </ul>
 
-                    <!-- Search form -->
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Tìm Kiếm.." aria-label="Search">
-                        <button class="btn btn-outline-light" type="submit">
-                            <i class="fas fa-search"></i>
-                        </button>
-                    </form>
-
-                    <!-- Language selection -->
-                    @* <a class="nav-link text-white" href="#">English</a> *@
-               @*      <li class="nav-item">
-                        <a class="nav-link text-white pl-3" asp-area="Identity" asp-page="/Account/Register">Register</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white pl-3" asp-area="Identity" asp-page="/Account/Login">Login</a>
-                    </li> *@
                     <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -73,11 +80,11 @@
             <div class="container">
                 <div class="row">
                     <!-- Address Column -->
-                    <div class="col-md-3">
+                    <div class="col-md-4 mb-4">
                         <h5>Địa Chỉ</h5>
-                        <p><i class="fa fa-map-marker"></i> Tổ 15, Khu Phố 4, Phường Trảng Dài</p>
-                        <p><i class="fa fa-phone"></i> Gọi: +01 1234567890</p>
-                        <p><i class="fa fa-envelope"></i> 1822041106@dntu.edu.vn</p>
+                        <p><i class="fa fa-map-marker"></i> XVQC+C9J, Trần Văn Xã, Trảng Dài, Biên Hòa, Đồng Nai, Việt Nam</p>
+                        <p><i class="fa fa-phone"></i> Các vấn đề khác vui lòng gọi số:  <a href="tel:+011234567890">+01 1234567890</a></p>
+                        <p><i class="fa fa-envelope"></i><a href=" mailto:1822041106@dntu.edu.vn"> 1822041106@dntu.edu.vn</a></p>
                         <div class="social-icons">
                             <a href="https://www.facebook.com" target="_blank">
                                 <i class="fab fa-facebook-f" style="font-size:24px; margin-right: 10px;"></i>
@@ -95,48 +102,42 @@
                     </div>
 
                     <!-- Links Column -->
-                    <div class="col-md-3">
+                    <div class="col-md-4 mb-4">
                         <h5>Liên Kết</h5>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="text-light">Trang Chủ</a></li>
-                            <li><a href="#" class="text-light">Về</a></li>
-                            <li><a href="#" class="text-light">Dịch Vụ</a></li>
-                            <li><a href="#" class="text-light">Định Giá</a></li>
-                            <li><a href="#" class="text-light">Liên Hệ Với Chúng Tôi</a></li>
+                            <li><a href="https://localhost:7011/Customer/Home/Index" class="text-light">Trang Chủ</a></li>
+                            <li><a href="#" class="text-light">Cửa Hàng</a></li>
+                            
+                            <li><a href="https://localhost:7011/Customer/Home/Index" class="text-light">Sản Phẩm Mới</a></li>
+                            <li><a href=" mailto:1822041106@dntu.edu.vn"  class="text-light">Liên Hệ</a></li>
                         </ul>
                     </div>
 
                     <!-- Info Column -->
-                    <div class="col-md-3">
+                    <div class="col-md-4 mb-4">
                         <h5>Thông tin</h5>
-                        <p>Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful.</p>
-                    </div>
-
-                    <!-- Subscribe Column -->
-                    <div class="col-md-3">
-                        <h5>Đăng Ký</h5>
-                        <form action="#" method="post">
-                            <input type="email" class="form-control mb-2" placeholder="Điềm email" />
-                            <button type="submit" class="btn btn-danger">Đăng ký</button>
-                        </form>
+                        <p>Chúng tôi cam kết mang đến cho khách hàng sản phẩm chất lượng cao và dịch vụ chuyên nghiệp. Đăng ký nhận thông tin để cập nhật các ưu đãi mới nhất.</p>
                     </div>
                 </div>
 
+                <!-- Copyright -->
                 <div class="text-center mt-4">
-                    <p>&copy; 2024 Mọi quyền được bảo lưu bởi các mẫu Html miễn phí</p>
+                    <p>&copy; 2024 <strong>MWG</strong>. Tất cả các quyền được bảo lưu. Thiết kế bởi <a href="https://www.designpartner.vn" class="text-light">DesignPartner</a></p>
                 </div>
             </div>
         </footer>
     </section>
 
 
-
+   
 
     @* <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - ProjectA - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer> *@
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -1,5 +1,6 @@
 ﻿@model GioHang
-<form method="post">
+<form asp-action="Details" asp-controller="Home" method="post">
+    <input type="hidden" asp-for="SanPhamId" value="@Model.SanPhamId" />
     <style>
         .product-image {
             max-width: 100%;
@@ -39,14 +40,16 @@
 
                 <!-- Quantity Selector -->
                 <div class="quantity-control my-3">
-                    <button class="btn btn-outline-secondary" onclick="decreaseQuantity()">-</button>
-                    <input type="text" class="form-control quantity-input mx-2" id="quantity" value="1" readonly>
-                    <button class="btn btn-outline-secondary" onclick="increaseQuantity()">+</button>
+                    <a class="btn btn-outline-secondary" onclick="decreaseQuantity()">-</a>
+                    <input asp-for="Quantity" value="@Model.Quantity" type="text" class="form-control quantity-input mx-2" id="quantity" value="1" readonly>
+                    <a class="btn btn-outline-secondary" onclick="increaseQuantity()">+</a>
                 </div>
 
                 <!-- Add to Cart Button -->
-                <button class="btn btn-danger">Mua ngay</button>
-                <button class="btn btn-primary" onclick="addToCart()">Thêm vào giỏ hàng</button>
+                <button type="submit" class="btn-product btn-cart"><span>Thêm vào giỏ hàng</span></button>
+
+                @* <button class="btn btn-danger">Mua ngay</button>
+                <button class="btn btn-primary" onclick="addToCart()">Thêm vào giỏ hàng</button> *@
 
                 <!-- Success Message -->
                 <div id="cart-message" class="alert alert-success mt-3 d-none">
@@ -69,22 +72,22 @@
                 }
             }
 
-            function addToCart() {
-                var quantity = document.getElementById('quantity').value;
-                var messageDiv = document.getElementById('cart-message');
+            // function addToCart() {
+            //     var quantity = document.getElementById('quantity').value;
+            //     var messageDiv = document.getElementById('cart-message');
 
-                // Display success message
-                messageDiv.classList.remove('d-none');
-                messageDiv.textContent = 'Product added to cart! Quantity: ' + quantity;
+            //     // Display success message
+            //     messageDiv.classList.remove('d-none');
+            //     messageDiv.textContent = 'Product added to cart! Quantity: ' + quantity;
 
-                // Optionally, you can reset the quantity back to 1 after adding to cart
-                document.getElementById('quantity').value = 1;
+            //     // Optionally, you can reset the quantity back to 1 after adding to cart
+            //     document.getElementById('quantity').value = 1;
 
-                // Hide message after 3 seconds
-                setTimeout(function () {
-                    messageDiv.classList.add('d-none');
-                }, 3000);
-            }
+            //     // Hide message after 3 seconds
+            //     setTimeout(function () {
+            //         messageDiv.classList.add('d-none');
+            //     }, 3000);
+            // }
         </script>
     </div>
 </form>
